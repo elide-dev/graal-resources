@@ -16,13 +16,13 @@ Future Additions
 - [CUDA](https://github.com/NVIDIA/grcuda) - NVIDIA License
 - [GraalLua](https://github.com/Glavo/GraalLua) - No License
 - [pkl](https://github.com/apple/pkl) - Apache 2.0 License
-- [SmallTalk](https://github.com/hpi-swa/trufflesqueak)
+- [SmallTalk](https://github.com/hpi-swa/trufflesqueak) - MIT License
 
 <hr>
 
 Possible Additions
 
-- [BrainF**k](https://github.com/cesquivias/bf-graal)
+- [BrainF**k](https://github.com/cesquivias/bf-graal) - GPL 3.0 License
 - [C](https://github.com/AdamBien/graalvm-hello-java-c)
 - [FastR (Graal for R)](https://github.com/oracle/fastr)
 
