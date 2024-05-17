@@ -9,8 +9,8 @@ A collection of GraalVM projects and more for [@elide-dev](https://github.com/el
 
 ## Vocabulary
 
-- Polyglot [poh-lee-glot], adj.: `composed of elements from different languages`
 - Elide [eh-lyde], verb: `to omit (a sound or syllable) when speaking. to join together; to merge.`
+- Polyglot [poh-lee-glot], adj.: `composed of elements from different languages`
 
 ## Languages
 
