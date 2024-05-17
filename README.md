@@ -23,8 +23,8 @@ Future Additions
 Possible Additions
 
 - [BrainF**k](https://github.com/cesquivias/bf-graal) - GPL 3.0 License
-- [C](https://github.com/AdamBien/graalvm-hello-java-c)
-- [FastR (Graal for R)](https://github.com/oracle/fastr)
+- [C](https://github.com/AdamBien/graalvm-hello-java-c) - Apache 2.0 License
+- [FastR (Graal for R)](https://github.com/oracle/fastr) - GNU Public License
 
 ## Vocabulary
 
