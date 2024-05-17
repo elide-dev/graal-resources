@@ -10,3 +10,4 @@ A collection of GraalVM projects for [@elide-dev](https://github.com/elide-dev/)
 
 - [GraalLua](https://github.com/Glavo/GraalLua)
 - [FastR (Graal for R)](https://github.com/oracle/fastr)
+- [pkl](https://github.com/apple/pkl)
