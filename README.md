@@ -21,4 +21,6 @@ Future Additions
 Possible Additions
 
 - [BrainF**k](https://github.com/cesquivias/bf-graal)
+- [C](https://github.com/AdamBien/graalvm-hello-java-c)
 - [FastR (Graal for R)](https://github.com/oracle/fastr)
+
