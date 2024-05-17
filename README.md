@@ -15,6 +15,7 @@ Future Additions
 - [BACIL (.NET)](https://github.com/jagotu/BACIL) - MIT License
 - [CUDA](https://github.com/NVIDIA/grcuda) - NVIDIA License
 - [GraalLua](https://github.com/Glavo/GraalLua) - No License
+- [GraalPHP (PHP 7.4)](https://github.com/abertschi/graalphp) - Apache 2.0
 - [pkl](https://github.com/apple/pkl) - Apache 2.0 License
 - [SmallTalk](https://github.com/hpi-swa/trufflesqueak) - MIT License
 
