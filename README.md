@@ -4,7 +4,12 @@ A collection of GraalVM projects for [@elide-dev](https://github.com/elide-dev/)
 ## Table Of Contents
 
 - [graal](#graal)
+  - [Vocabulary](#vocabulary)
   - [Languages](#languages)
+
+## Vocabulary
+
+- Polyglot, adj.: `composed of elements from different languages`
 
 ## Languages
 
