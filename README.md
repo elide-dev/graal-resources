@@ -4,13 +4,9 @@ A collection of GraalVM projects and more for [@elide-dev](https://github.com/el
 ## Table Of Contents
 
 - [graal](#graal)
-  - [Vocabulary](#vocabulary)
   - [Languages](#languages)
+  - [Vocabulary](#vocabulary)
 
-## Vocabulary
-
-- Elide [eh-lyde], verb: `to omit (a sound or syllable) when speaking. to join together; to merge.`
-- Polyglot [poh-lee-glot], adj.: `composed of elements from different languages`
 
 ## Languages
 
@@ -29,4 +25,9 @@ Possible Additions
 - [BrainF**k](https://github.com/cesquivias/bf-graal)
 - [C](https://github.com/AdamBien/graalvm-hello-java-c)
 - [FastR (Graal for R)](https://github.com/oracle/fastr)
+
+## Vocabulary
+
+- Elide [eh-lyde], verb: `to omit (a sound or syllable) when speaking. to join together; to merge.`
+- Polyglot [poh-lee-glot], adj.: `composed of elements from different languages`
 
