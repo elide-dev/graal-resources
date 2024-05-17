@@ -1,5 +1,5 @@
 # graal
-A collection of GraalVM projects for [@elide-dev](https://github.com/elide-dev/)
+A collection of GraalVM projects and more for [@elide-dev](https://github.com/elide-dev/) and others.
 
 ## Table Of Contents
 
