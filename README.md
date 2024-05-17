@@ -9,4 +9,4 @@ A collection of GraalVM projects for @elide-dev
 ## Languages
 
 - [GraalLua](https://github.com/Glavo/GraalLua)
-
+- [FastR (Graal for R)](https://github.com/oracle/fastr)
