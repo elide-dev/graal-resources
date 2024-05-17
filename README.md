@@ -12,8 +12,8 @@ A collection of GraalVM projects and more for [@elide-dev](https://github.com/el
 
 Future Additions
 
-- [BACIL (.NET)](https://github.com/jagotu/BACIL)
-- [CUDA](https://github.com/NVIDIA/grcuda)
+- [BACIL (.NET)](https://github.com/jagotu/BACIL) - MIT License
+- [CUDA](https://github.com/NVIDIA/grcuda) - NVIDIA License
 - [GraalLua](https://github.com/Glavo/GraalLua)
 - [pkl](https://github.com/apple/pkl)
 - [SmallTalk](https://github.com/hpi-swa/trufflesqueak)
