@@ -35,4 +35,4 @@ Possible Additions
 
 ## Adding More Languages
 
-- [SimpleLanguage (by Oracle](https://docs.oracle.com/en/graalvm/jdk/21/docs/graalvm-as-a-platform/implement-language/index.html#get-started)
+- [SimpleLanguage (by Oracle)](https://docs.oracle.com/en/graalvm/jdk/21/docs/graalvm-as-a-platform/implement-language/index.html#get-started)
