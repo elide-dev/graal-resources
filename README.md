@@ -6,6 +6,7 @@ A collection of [GraalVM](https://github.com/oracle/graal) projects and more for
 - [graal](#graal)
   - [Languages](#languages)
   - [Vocabulary](#vocabulary)
+  - [Adding More Languages](#adding-more-languages)
 
 
 ## Languages
@@ -32,3 +33,6 @@ Possible Additions
 - Elide [eh-lyde], verb: `to omit (a sound or syllable) when speaking. to join together; to merge.`
 - Polyglot [poh-lee-glot], adj.: `composed of elements from different languages`
 
+## Adding More Languages
+
+- [SimpleLanguage (by Oracle](https://docs.oracle.com/en/graalvm/jdk/21/docs/graalvm-as-a-platform/implement-language/index.html#get-started)
